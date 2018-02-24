@@ -1,0 +1,10 @@
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\bin\Debug\Cycle Data Project.exe.config
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\bin\Debug\Cycle Data Project.exe
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\bin\Debug\Cycle Data Project.pdb
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle_Data_Project.Form1.resources
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle_Data_Project.Properties.Resources.resources
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle Data Project.csproj.GenerateResource.Cache
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle Data Project.csproj.CoreCompileInputs.cache
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle Data Project.exe
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle Data Project.pdb
+C:\Users\artur\Source\Repos\Cycle Data Project\Cycle Data Project\obj\Debug\Cycle_Data_Project.Form2.resources

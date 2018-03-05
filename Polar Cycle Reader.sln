@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleLogic", "CycleLogic\CycleLogic.csproj", "{C5727C2E-75A5-4405-9CF4-C4E441610A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polar Cycle Reader", "Cycle Data Reader\Polar Cycle Reader.csproj", "{83618672-168C-44D6-8721-0230D2B0480C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5727C2E-75A5-4405-9CF4-C4E441610A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5727C2E-75A5-4405-9CF4-C4E441610A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5727C2E-75A5-4405-9CF4-C4E441610A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5727C2E-75A5-4405-9CF4-C4E441610A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83618672-168C-44D6-8721-0230D2B0480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83618672-168C-44D6-8721-0230D2B0480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83618672-168C-44D6-8721-0230D2B0480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83618672-168C-44D6-8721-0230D2B0480C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD62805F-4DD8-43FC-B777-F56D946F93D9}
+	EndGlobalSection
+EndGlobal
